@@ -5,3 +5,5 @@
 <hr>
 📫 <b>How to reach me:</b><br>
 Email me at akhirulfajar@gmail.com
+<br>
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
