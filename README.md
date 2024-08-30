@@ -6,6 +6,7 @@
 <hr>
 📫 <b>How to reach me:</b><br>
 Email me at akhirulfajar@gmail.com
+<br>
 Have a visit to <a href="https://akhirulfajar.com" target="_blank">my website</a>
 <br>
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
